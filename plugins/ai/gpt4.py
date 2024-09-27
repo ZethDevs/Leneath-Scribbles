@@ -22,4 +22,4 @@ def gpt4_handler(message, bot):
     else:
         prompt = message.text[6:]  # remove the /gpt4 command
         response = get_gpt4_response(prompt)
-        bot.reply_to(message, response, parse_mode="MarkdownV2"
+        bot.reply_to(message, response, parse_mode="MarkdownV2")
