@@ -1,0 +1,11 @@
+flask
+requests
+bs4
+json
+os
+datetime
+telebot
+types
+re
+sys
+validators
