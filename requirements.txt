@@ -3,5 +3,5 @@ requests
 bs4
 datetime
 telebot
-types
 validators
+gunicorn
