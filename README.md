@@ -5,7 +5,10 @@ BOT Telegram All in One
 • GPT-4o
 • GPT-4
 • Gemini AI
-• Character AI
+• Character AI \n
+• flux diffusion
+• flux schnell
+• photoleap
 
 # DOWNLOADER MENU
 • Tiktok
@@ -14,3 +17,8 @@ BOT Telegram All in One
 • Twitter/X
 • YouTube
 • Spotify
+• terabox
+
+# OTHER
+• lookup
+• subdomain 
